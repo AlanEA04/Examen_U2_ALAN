@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPerroExamen_OAEA", "ApiPerroExamen_OAEA.csproj", "{EE16BF43-F3FE-4ED2-B9A6-FFDC5CB8A5E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE16BF43-F3FE-4ED2-B9A6-FFDC5CB8A5E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE16BF43-F3FE-4ED2-B9A6-FFDC5CB8A5E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE16BF43-F3FE-4ED2-B9A6-FFDC5CB8A5E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE16BF43-F3FE-4ED2-B9A6-FFDC5CB8A5E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A3DC5A2-104F-4C43-A7D2-848001BE8BE2}
+	EndGlobalSection
+EndGlobal

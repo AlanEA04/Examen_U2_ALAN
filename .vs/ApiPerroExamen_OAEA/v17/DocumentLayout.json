@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cd19\\Desktop\\xd\\ApiPerroExamen_OAEA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE16BF43-F3FE-4ED2-B9A6-FFDC5CB8A5E0}|ApiPerroExamen_OAEA.csproj|c:\\users\\cd19\\desktop\\xd\\apiperroexamen_oaea\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE16BF43-F3FE-4ED2-B9A6-FFDC5CB8A5E0}|ApiPerroExamen_OAEA.csproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE16BF43-F3FE-4ED2-B9A6-FFDC5CB8A5E0}|ApiPerroExamen_OAEA.csproj|C:\\Users\\cd19\\Desktop\\xd\\ApiPerroExamen_OAEA\\js\\scrip.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EE16BF43-F3FE-4ED2-B9A6-FFDC5CB8A5E0}|ApiPerroExamen_OAEA.csproj|solutionrelative:js\\scrip.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE16BF43-F3FE-4ED2-B9A6-FFDC5CB8A5E0}|ApiPerroExamen_OAEA.csproj|C:\\Users\\cd19\\Desktop\\xd\\ApiPerroExamen_OAEA\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE16BF43-F3FE-4ED2-B9A6-FFDC5CB8A5E0}|ApiPerroExamen_OAEA.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\cd19\\Desktop\\xd\\ApiPerroExamen_OAEA\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\cd19\\Desktop\\xd\\ApiPerroExamen_OAEA\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:51:50.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scrip.js",
+              "DocumentMoniker": "C:\\Users\\cd19\\Desktop\\xd\\ApiPerroExamen_OAEA\\js\\Scrip.js",
+              "RelativeDocumentMoniker": "js\\Scrip.js",
+              "ToolTip": "C:\\Users\\cd19\\Desktop\\xd\\ApiPerroExamen_OAEA\\js\\Scrip.js",
+              "RelativeToolTip": "js\\Scrip.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-29T20:42:50.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\cd19\\Desktop\\xd\\ApiPerroExamen_OAEA\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\cd19\\Desktop\\xd\\ApiPerroExamen_OAEA\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-29T20:39:27.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
